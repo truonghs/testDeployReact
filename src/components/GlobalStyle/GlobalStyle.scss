@@ -1,0 +1,17 @@
+@import "normalize.css";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+html {
+    scroll-behavior: smooth;
+}
